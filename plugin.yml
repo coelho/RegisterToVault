@@ -1,0 +1,8 @@
+name: Register
+version: 0.1
+main: com.nijikokun.register.Register
+description: >
+             Register, an API built for economies.
+authors: [Nijikokun, LRFLEW, Acrobot, miho, Snowleo, KHobbits, Spice-King, Coelho]
+website: http://dev.bukkit.org/server-mods/registertovault
+softdepend: [Vault]
